@@ -4,7 +4,7 @@
 
 Ancien ingénieur génie civil (6 ans dans le BTP), reconverti dans l'informatique. J'aime comprendre comment les systèmes fonctionnent de l'intérieur — du firmware d'une console 8 bits jusqu'à une infrastructure AWS — pour mieux les sécuriser.
 
-🎯 **Recherche :** alternance 2026-2027 (1 sem. école / 1 sem. entreprise, dès maintenant) ou stage de fin d'études de 6 mois (à partir de février 2027) — cybersécurité, cloud, Ops, embarqué / IoT.
+🎯 **Recherche :** stage de fin d'études de 6 mois (à partir de janvier/février 2027) — cybersécurité, cloud, Ops, embarqué / IoT.
 📍 La Réunion (UTC+4) · ouvert à la mobilité · 🇫🇷 C1 · 🇬🇧 B2
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lova--rafanomezantsoa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lova-rafanomezantsoa/)
